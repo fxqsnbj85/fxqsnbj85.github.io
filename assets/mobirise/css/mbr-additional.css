@@ -1891,70 +1891,71 @@ body {
     padding-bottom: 2rem;
   }
 }
-.cid-qTkAaeaxX5 {
+.cid-rueBcxhVQl {
   padding-top: 60px;
   padding-bottom: 60px;
   background-color: #2e2e2e;
 }
 @media (max-width: 767px) {
-  .cid-qTkAaeaxX5 .content {
+  .cid-rueBcxhVQl .content {
     text-align: center;
   }
-  .cid-qTkAaeaxX5 .content > div:not(:last-child) {
+  .cid-rueBcxhVQl .content > div:not(:last-child) {
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-qTkAaeaxX5 .media-wrap {
+  .cid-rueBcxhVQl .media-wrap {
     margin-bottom: 1rem;
   }
 }
-.cid-qTkAaeaxX5 .media-wrap .mbr-iconfont-logo {
+.cid-rueBcxhVQl .media-wrap .mbr-iconfont-logo {
   font-size: 7.5rem;
   color: #f36;
 }
-.cid-qTkAaeaxX5 .media-wrap img {
+.cid-rueBcxhVQl .media-wrap img {
   height: 6rem;
 }
 @media (max-width: 767px) {
-  .cid-qTkAaeaxX5 .footer-lower .copyright {
+  .cid-rueBcxhVQl .footer-lower .copyright {
     margin-bottom: 1rem;
     text-align: center;
   }
 }
-.cid-qTkAaeaxX5 .footer-lower hr {
+.cid-rueBcxhVQl .footer-lower hr {
   margin: 1rem 0;
   border-color: #fff;
   opacity: .05;
 }
-.cid-qTkAaeaxX5 .footer-lower .social-list {
+.cid-rueBcxhVQl .footer-lower .social-list {
   padding-left: 0;
   margin-bottom: 0;
   list-style: none;
   display: flex;
+  -webkit-flex-wrap: wrap;
   flex-wrap: wrap;
-  justify-content: flex-end;
   -webkit-justify-content: flex-end;
+  justify-content: flex-end;
 }
-.cid-qTkAaeaxX5 .footer-lower .social-list .mbr-iconfont-social {
+.cid-rueBcxhVQl .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
   color: #fff;
 }
-.cid-qTkAaeaxX5 .footer-lower .social-list .soc-item {
+.cid-rueBcxhVQl .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
 }
-.cid-qTkAaeaxX5 .footer-lower .social-list a {
+.cid-rueBcxhVQl .footer-lower .social-list a {
   margin: 0;
   opacity: .5;
   -webkit-transition: .2s linear;
   transition: .2s linear;
 }
-.cid-qTkAaeaxX5 .footer-lower .social-list a:hover {
+.cid-rueBcxhVQl .footer-lower .social-list a:hover {
   opacity: 1;
 }
 @media (max-width: 767px) {
-  .cid-qTkAaeaxX5 .footer-lower .social-list {
-    justify-content: center;
+  .cid-rueBcxhVQl .footer-lower .social-list {
     -webkit-justify-content: center;
+    justify-content: center;
   }
 }
